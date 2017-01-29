@@ -1,0 +1,5 @@
+pane	0	0	:bash	1	:*	0	:/home/conner/crystal-projects/docopt	0	watch	:watch -t --interval=1 tree
+pane	0	0	:bash	1	:*	1	:/home/conner/crystal-projects/docopt	1	bash	:
+pane	0	0	:bash	1	:*	2	:/home/conner/crystal-projects/docopt	0	bash	:
+window	0	0	1	:*	eed3,179x50,0,0{25x50,0,0,0,153x50,26,0[153x7,26,0,1,153x42,26,8,3]}
+state	0	

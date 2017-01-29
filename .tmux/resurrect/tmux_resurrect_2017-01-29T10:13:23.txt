@@ -1,0 +1,11 @@
+pane	0	0	:bash	1	:*	0	:/home/conner/crystal-projects/website	1	vim	:vim .
+pane	0	0	:bash	1	:*	1	:/home/conner/b43-firmware	0	htop	:htop
+pane	0	0	:bash	1	:*	2	:/home/conner/crystal-projects/website	0	bash	:
+pane	1	0	:bash	1	:*	0	:/home/conner	1	bash	:
+pane	2	0	:bash	1	:*	0	:/home/conner	1	bash	:
+pane	3	0	:htop	1	:*	0	:/home/conner	1	htop	:htop
+window	0	0	1	:*	9e07,315x78,0,0{252x78,0,0,9,62x78,253,0[62x4,253,0,10,62x73,253,5,12]}
+window	1	0	1	:*	d382,315x78,0,0,5
+window	2	0	1	:*	d383,315x78,0,0,6
+window	3	0	1	:*	d384,315x78,0,0,7
+state	0	2
